@@ -1,0 +1,34 @@
+html
+{
+  background-image: url(bp.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+h
+{
+  color: white;
+  font-size: 32;
+  font-family: arial;
+}
+a
+{
+  background-color: black;
+  opacity: 0.5;
+}
+a:hover
+{
+  opacity: 1.0;
+}
+p
+{
+  color: white;
+  opacity: 0.5;
+}
+div.bio
+{
+  background-color: black;
+}
+p:hover
+{
+  opacity: 1.0;
+}
